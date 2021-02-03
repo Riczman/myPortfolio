@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.d6ed10be.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.ed938921.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.ed938921.chunk.js.map",
+    "main.css": "/myPortfolio/static/css/main.b37f481d.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.96b8cf7a.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.96b8cf7a.chunk.js.map",
     "runtime-main.js": "/myPortfolio/static/js/runtime-main.b0886c16.js",
     "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.b0886c16.js.map",
-    "static/js/2.204c5529.chunk.js": "/myPortfolio/static/js/2.204c5529.chunk.js",
-    "static/js/2.204c5529.chunk.js.map": "/myPortfolio/static/js/2.204c5529.chunk.js.map",
+    "static/js/2.693a19f4.chunk.js": "/myPortfolio/static/js/2.693a19f4.chunk.js",
+    "static/js/2.693a19f4.chunk.js.map": "/myPortfolio/static/js/2.693a19f4.chunk.js.map",
     "index.html": "/myPortfolio/index.html",
-    "static/css/main.d6ed10be.chunk.css.map": "/myPortfolio/static/css/main.d6ed10be.chunk.css.map",
-    "static/js/2.204c5529.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.204c5529.chunk.js.LICENSE.txt",
+    "static/css/main.b37f481d.chunk.css.map": "/myPortfolio/static/css/main.b37f481d.chunk.css.map",
+    "static/js/2.693a19f4.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.693a19f4.chunk.js.LICENSE.txt",
     "static/media/portfolioAboutMe.9cda9a5d.svg": "/myPortfolio/static/media/portfolioAboutMe.9cda9a5d.svg",
     "static/media/portfolioCircle.e8d30a35.svg": "/myPortfolio/static/media/portfolioCircle.e8d30a35.svg",
     "static/media/portfolioContact.4664ab43.svg": "/myPortfolio/static/media/portfolioContact.4664ab43.svg",
     "static/media/portfolioName.372dd8f4.svg": "/myPortfolio/static/media/portfolioName.372dd8f4.svg",
     "static/media/portfolioProjects.d4499dcc.svg": "/myPortfolio/static/media/portfolioProjects.d4499dcc.svg",
+    "static/media/portfolioScrollLeft.db77cc73.svg": "/myPortfolio/static/media/portfolioScrollLeft.db77cc73.svg",
+    "static/media/portfolioScrollRight.9403e2c9.svg": "/myPortfolio/static/media/portfolioScrollRight.9403e2c9.svg",
     "static/media/index.css": "/myPortfolio/static/media/previewEqCompanion.92b0deaf.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.b0886c16.js",
-    "static/js/2.204c5529.chunk.js",
-    "static/css/main.d6ed10be.chunk.css",
-    "static/js/main.ed938921.chunk.js"
+    "static/js/2.693a19f4.chunk.js",
+    "static/css/main.b37f481d.chunk.css",
+    "static/js/main.96b8cf7a.chunk.js"
   ]
 }
